@@ -1,0 +1,22 @@
+{
+    "name": "uiibevy/uii-taggable",
+    "description": "Add tags and taggable behaviour to your Laravel app",
+    "type": "library",
+    "require": {
+        "illuminate/database": "^10.0",
+        "illuminate/support": "^10.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Uiibevy\\UiiTaggable\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hicham SADDEK",
+            "email": "hicham.saddek@soprasteria.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
